@@ -34,4 +34,5 @@ func main() {
 	case game.TIE:
 		fmt.Printf("Match Tied.")
 	}
+	fmt.Scanln()
 }
